@@ -1,16 +1,20 @@
-## Hi there 👋
+# Chance Lin
 
-<!--
-**cclintw/cclintw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An interdisciplinary researcher and developer working across information technology, WordPress, digital humanities, AI tools, and historical text processing.
 
-Here are some ideas to get you started:
+My work focuses on building practical tools for text cleaning, encoding conversion, semantic retrieval, historical document analysis, and WordPress-based publishing systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://cclin.cc
+
+## Featured Areas
+
+- WordPress Plugin Development
+- Digital Humanities
+- AI Tools for Historical Research
+- Text Encoding and Cleaning
+- Semantic Retrieval and RAG
+- Historical Document Processing
+
+## Repositories
+<!-- repo-list:start -->
+<!-- repo-list:end -->
