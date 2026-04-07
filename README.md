@@ -24,5 +24,4 @@ Website: https://cclin.cc
 | [cc-smart-toc](https://github.com/cclintw/cc-smart-toc) | A flexible WordPress Table of Contents plugin with H2–H6 support, numbering, and scrollspy navigation. | PHP | 2026-04-07 |
 | [cc-custom-avatar](https://github.com/cclintw/cc-custom-avatar) | This plugin allows users to set custom avatars, replacing the default WordPress avatar.允許使用者設定個人圖片,取代Wordpress 預設的人頭圖像。 | HTML | 2025-07-01 |
 | [cc-head-cleaner-and-speedup](https://github.com/cclintw/cc-head-cleaner-and-speedup) | Make your WordPress site faster and cleaner by removing unnecessary <head> elements and disabling unused features. | PHP | 2025-06-27 |
-| [cc-chance-lin-plugin](https://github.com/cclintw/cc-chance-lin-plugin) |  | PHP | 2025-05-25 |
 <!-- repo-list:end -->
