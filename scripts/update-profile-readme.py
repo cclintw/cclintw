@@ -34,18 +34,19 @@ def build_repo_lines(repos):
 
     filtered.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
 
+    lines.append("| Repository | Description | Language | Updated |")
+    lines.append("|---|---|---|---|")
+
     for repo in filtered:
         name = repo["name"]
         url = repo["html_url"]
-        desc = (repo.get("description") or "").strip()
-        lang = repo.get("language") or "Unknown"
+        desc = (repo.get("description") or "").replace("\n", " ").replace("|", "\\|").strip()
+        lang = (repo.get("language") or "Unknown").replace("|", "\\|")
+        updated = (repo.get("pushed_at") or "")[:10]
 
-        if desc:
-            line = f"- [{name}]({url}) - {desc} ({lang})"
-        else:
-            line = f"- [{name}]({url}) ({lang})"
-
-        lines.append(line)
+        lines.append(
+            f"| [{name}]({url}) | {desc} | {lang} | {updated} |"
+        )
 
     return "\n".join(lines)
 
