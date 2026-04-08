@@ -1,6 +1,6 @@
 # Chance Lin
 
-An interdisciplinary researcher and developer working across information technology, WordPress, digital humanities, AI tools, and historical text processing.
+An interdisciplinary researcher and developer working across information technology, digital humanities, web development, AI tools, and historical text processing.
 
 ## Featured Areas
 
