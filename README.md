@@ -2,10 +2,6 @@
 
 An interdisciplinary researcher and developer working across information technology, WordPress, digital humanities, AI tools, and historical text processing.
 
-My work focuses on building practical tools for text cleaning, encoding conversion, semantic retrieval, historical document analysis, and WordPress-based publishing systems.
-
-Website: https://cclin.cc
-
 ## Featured Areas
 
 - WordPress Plugin Development
