@@ -2,15 +2,6 @@
 
 An interdisciplinary researcher and developer working across information technology, digital humanities, web development, AI tools, and historical text processing.
 
-## Featured Areas
-
-- WordPress Plugin Development
-- Digital Humanities
-- AI Tools for Historical Research
-- Text Encoding and Cleaning
-- Semantic Retrieval and RAG
-- Historical Document Processing
-
 ## Repositories
 <!-- repo-list:start -->
 | Repository | Description | Language | Updated |
