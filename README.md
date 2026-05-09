@@ -1,2 +1,1 @@
-
-Hi, I am Chance Lin, An interdisciplinary researcher and developer working across information technology, digital humanities, web development, AI tools, and historical text processing.
+Interdisciplinary researcher, AI engineer, AI builder, and digital humanities system designer specializing in AI Agent Workflow Design and AI-driven digital humanities knowledge workflows. Focused on historical text analysis, knowledge graphs, digital archives, and digital publishing platforms, while exploring AI applications in digital humanities, knowledge systems, and large-scale historical document processing.
