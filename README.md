@@ -1,1 +1,7 @@
-跨領域研究者、AI Builder 與數位人文系統設計者，專注於 Agentic Workflows 與 AI 驅動的數位人文知識處理流程建構，研究領域涵蓋歷史文本分析、知識圖譜、知識系統、數位典藏與數位出版平台。
+I am an interdisciplinary researcher, AI builder, and digital humanities systems designer with a background in historical and humanities research, as well as professional experience in information systems development.
+
+My primary research interest lies in exploring the methodological applications of generative AI in humanities research, with a particular focus on agentic workflows, text analysis, knowledge representation, and AI-driven knowledge processing.
+
+I develop AI-powered tools and research platforms for digital humanities, integrating historical research methodologies with practical expertise in information technology. My work encompasses knowledge graphs, digital archives, and digital publishing.
+
+I am also interested in the ethical frameworks and moral boundaries of artificial intelligence, particularly its implications for academic research, knowledge production, and human civilization.
