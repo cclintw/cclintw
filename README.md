@@ -1,4 +1,4 @@
-Hi there!
+Hi, I’m Chance. 
 
 My areas of expertise lie in history and the humanities, complemented by years of hands-on experience in information systems development. My work bridges humanities research and information technology.
 
