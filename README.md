@@ -1,7 +1,5 @@
-I am an interdisciplinary researcher, AI builder, and digital humanities systems designer with a background in historical and humanities research, as well as professional experience in information systems development.
+My areas of expertise lie in history and the humanities, complemented by years of hands-on experience in information systems development. My work bridges humanities research and information technology.
 
-My primary research interest lies in exploring the methodological applications of generative AI in humanities research, with a particular focus on agentic workflows, text analysis, knowledge representation, and AI-driven knowledge processing.
+My professional background spans software development, management information systems (MIS), e-commerce, and web development.
 
-I develop AI-powered tools and research platforms for digital humanities, integrating historical research methodologies with practical expertise in information technology. My work encompasses knowledge graphs, digital archives, and digital publishing.
-
-I am also interested in the ethical frameworks and moral boundaries of artificial intelligence, particularly its implications for academic research, knowledge production, and human civilization.
+In recent years, my focus has shifted toward the methodological applications of generative AI in humanities research, particularly agentic workflows, text analysis, knowledge representation, and AI-driven knowledge processing. I develop digital humanities tools and research platforms that integrate traditional research methodologies with modern AI technologies.
