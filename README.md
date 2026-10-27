@@ -4,7 +4,7 @@ I’m a humanities researcher with a background in history and years of experien
 
 ## Skills and Expertise
 
-* Humanities researcher
+* Humanities research
 * History
 * Information systems development
 * Generative AI
