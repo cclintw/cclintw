@@ -8,7 +8,7 @@ I’m a humanities researcher with a background in history and years of experien
 * History
 * Information systems development
 * Generative AI
-* Digital Humanities Research Methods & Tool Development
+* Text Mining & Analysis
 
 
 ## Technologies & Tools
