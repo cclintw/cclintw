@@ -1,6 +1,6 @@
 # Hi, I’m Chance
 
-I’m a humanities researcher with a background in history and years of experience in information systems development. My work focuses on integrating traditional humanities research methods with modern technologies, particularly generative AI, to develop digital humanities tools and research platforms.
+I’m a humanities researcher with a background in history and years of experience in information systems development. My work focuses on integrating traditional humanities research methods with modern information technologies, particularly generative AI, to develop digital humanities tools and research platforms.
 
 ## Skills and Expertise
 
@@ -8,7 +8,7 @@ I’m a humanities researcher with a background in history and years of experien
 * History
 * Information systems development
 * Generative AI
-* Digital humanities tools and research platforms
+* Digital Humanities Research & Development
 
 
 ## Technologies & Tools
